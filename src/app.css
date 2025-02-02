@@ -1,0 +1,20 @@
+@import url('https://static.metafy.gg/fonts/Suisse/SuisseIntl-Regular-WebM.woff2');
+@import url('https://static.metafy.gg/fonts/Suisse/SuisseIntl-SemiBold-WebM.woff2');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    @font-face {
+        font-family: 'Suisse SemiBold';
+        src: url('https://static.metafy.gg/fonts/Suisse/SuisseIntl-SemiBold-WebM.woff2');
+    }
+    @font-face {
+        font-family: 'Suisse Regular';
+        src: url('https://static.metafy.gg/fonts/Suisse/SuisseIntl-Regular-WebM.woff2');
+    }
+    html {
+        font-family: 'Suisse Regular';
+    }
+}
