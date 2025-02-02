@@ -1,7 +1,7 @@
 {
   "name": "takehome-project-frontend",
   "version": "0.0.1",
-  "homepage": "https://maceq687.github.io/svelte-project/",
+  "homepage": "https://henriquemoura.github.io/svelte-project-main/",
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
