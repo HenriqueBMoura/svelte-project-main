@@ -15,7 +15,7 @@ export const coaches = [
   {
     name: 'Kaosx',
     avatar:
-      'https://static.metafy.gg/cdn-cgi/image/width=184,height=184,fit=crop,quality=100,sharpen=1,format=webp/uploads/store/account/76a92a15-a1bf-448b-b6f7-c33b621a79a7/avatar/cf9af7be46f92a03c1fbac593772b839.png',
+      '/svelte-project-main/favicon.png',
     title: 'Rainbow Six Siege Coach',
   },
   {
@@ -67,13 +67,13 @@ export const lessons = [
   {
     title: '1 on 1 Coaching - Vod Review',
     game_poster:
-      'https://static.metafy.gg/cdn-cgi/image/width=90,height=90,fit=crop,quality=100,sharpen=1,format=webp/uploads/store/game/ffc49b2e-8891-4d35-af2a-6c1871610c69/poster/be7dfce7758b236ff9e92a5e5fb30b3f.jpg',
+      '/svelte-project-main/favicon.png',
     base_price: 25,
   },
   {
     title: 'Deckbuilding session',
     game_poster:
-      'https://static.metafy.gg/cdn-cgi/image/width=90,height=90,fit=crop,quality=100,sharpen=1,format=webp/uploads/store/game/8c4060b4-af1f-43a6-8eb8-cb4f2a19d513/poster/da3b6fde1f4ff018c4ec3f6e71cfeb4a.jpg',
+      '/svelte-project-main/favicon.png',
     base_price: 10,
   },
 ];
