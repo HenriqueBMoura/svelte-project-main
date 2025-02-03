@@ -6,6 +6,9 @@ const config = {
     adapter: adapter(),
     paths: {
       base: '/svelte-project-main'
+    },
+    alias: {
+      $lib: './src/lib'
     }
   },
   preprocess: vitePreprocess()
